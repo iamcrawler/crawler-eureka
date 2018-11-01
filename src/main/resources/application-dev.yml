@@ -13,3 +13,4 @@ eureka:
       defaultZone: ${server.host}:${server.port}/eureka/
   instance:
     prefer-ip-address: true
+    
